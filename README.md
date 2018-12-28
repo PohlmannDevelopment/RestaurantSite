@@ -1,1 +1,1 @@
-# RestaurantSite
+# RestaurantSite - This site is to be created through the Software Guild training and to be submitted as part of the G10 Associates program application process 
